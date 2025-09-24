@@ -13,11 +13,11 @@
     "node": "22.x"
   },
   "dependencies": {
-    "bower": "^1.8.14",  // 升级bower到最新版本
+    "bower": "^1.8.14",
     "coffee-script": "^1.12.7",
     "css-whitespace": "^1.1.0",
-    "glob": "^8.1.0",  // 升级glob到兼容版本
-    "gulp": "^4.0.2",  // 升级gulp到最新版本
+    "glob": "^8.1.0",
+    "gulp": "^4.0.2",
     "gulp-coffee": "^3.0.3",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.7.0",
@@ -26,7 +26,7 @@
     "gulp-order": "^1.2.0",
     "gulp-replace": "^1.1.4",
     "gulp-util": "^3.0.8",
-    "lodash": "^4.17.21",  // 升级lodash到最新版本
+    "lodash": "^4.17.21",
     "merge-stream": "^2.0.0",
     "q": "^1.5.1",
     "read-components": "^0.6.0",
@@ -38,7 +38,7 @@
     "through2": "^4.0.2"
   },
   "devDependencies": {
-    "karma": "^6.4.3",  // 升级Karma到兼容现代Node.js的版本
+    "karma": "^6.4.3",
     "karma-chrome-launcher": "^3.2.0",
     "karma-coffee-preprocessor": "^2.0.1",
     "karma-mocha": "^2.0.1",
